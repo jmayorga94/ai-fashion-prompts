@@ -1,4 +1,3 @@
-# ULTIMO PROMPT
 
 # PROMPT — Infografía de Colorimetría Personal para Outfits
 
