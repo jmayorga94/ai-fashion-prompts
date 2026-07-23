@@ -10,10 +10,7 @@ Actualmente el repositorio incluye prompts para:
 
 * 🎨 Colorimetría personal
 * 👔 Análisis de outfits
-* 🧥 Recomendaciones de estilo
-* 🎯 Guías visuales e infografías
-* 📸 Análisis de fotografías
-* 🤖 Automatización de tareas con IA
+
 
 Con el tiempo se irán agregando nuevos prompts y mejorando los existentes.
 
@@ -30,9 +27,7 @@ Con el tiempo se irán agregando nuevos prompts y mejorando los existentes.
 ```text
 .
 ├── prompts/
-│   ├── personal-color-analysis.md
-│   ├── outfit-analysis.md
-│   ├── wardrobe-planner.md
+│   ├── conoce-tus-colores-prompt.md
 │   └── ...
 ├── examples/
 └── README.md
